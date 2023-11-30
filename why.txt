@@ -1,1 +1,6 @@
 axios : for sending http request
+deployment : netlify
+components: devui
+
+// still reamining  
+mastering api chai aur code 
